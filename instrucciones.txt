@@ -1,0 +1,6 @@
+1. buscar refacciones
+2. buscar herramientas
+3. quitar birlos
+4. cambiar llanta
+5. ajustar birlos
+
